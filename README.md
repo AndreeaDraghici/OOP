@@ -3,6 +3,8 @@ OOP concepts in C++ Language.
 
 Note:  For each solution there is also the pdf related to the requirements of the task.
 
+-----------------------------------------------------------------------------------------------------------------------
+
 Approach:
 
 In this repository you will find solutions implemented for certain applications / tasks using the notions of OOP.
